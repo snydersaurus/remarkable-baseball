@@ -1,0 +1,10 @@
+{
+    "id": "baseball",
+    "name": "Pocket Diamond",
+    "loadsBackend": false,
+    "entry": "/ui/Main.qml",
+    "supportsScaling": true,
+    "canHaveMultipleFrontends": false,
+    "aspectRatio": "auto",
+    "disablesWindowedMode": true
+}

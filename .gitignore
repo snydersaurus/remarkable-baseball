@@ -1,0 +1,11 @@
+appload-native/out/
+dist/
+__pycache__/
+.DS_Store
+shots/
+docker/rmpp-sdk.sh
+tools/legacy-sprites.mjs
+# Local planning and device-specific development notes.
+docs/PLATFORM.md
+docs/IMPLEMENTATION_BRIEF.md
+docs/design-reference.png

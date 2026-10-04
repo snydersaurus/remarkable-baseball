@@ -1,0 +1,16 @@
+<RCC>
+    <qresource>
+        <file>assets/players.png</file>
+        <file>assets/ballpark.png</file>
+        <file>ui/Main.qml</file>
+        <file>ui/RefreshArea.qml</file>
+        <file>ui/Game.qml</file>
+        <file>ui/Field.qml</file>
+        <file>ui/PixelSprite.qml</file>
+        <file>ui/TextButton.qml</file>
+        <file>ui/Baseball.mjs</file>
+        <file>ui/Sprites.mjs</file>
+        <file>ui/Motion.mjs</file>
+        <file>ui/Ballpark.qml</file>
+    </qresource>
+</RCC>
