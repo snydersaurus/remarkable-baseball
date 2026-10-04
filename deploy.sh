@@ -25,4 +25,4 @@ if [ "${NO_RESTART:-}" = 1 ]; then
 fi
 echo "==> restarting xochitl so AppLoad rescans its apps"
 ssh "root@$RM_HOST" 'systemctl restart xochitl'
-echo "Installed at $DEST. Unlock the tablet, open AppLoad, tap Pocket Diamond."
+echo "Installed at $DEST. Unlock the tablet, open AppLoad, tap Baseball."

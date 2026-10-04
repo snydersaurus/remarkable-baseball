@@ -1,6 +1,6 @@
 {
     "id": "baseball",
-    "name": "Pocket Diamond",
+    "name": "Baseball",
     "loadsBackend": false,
     "entry": "/ui/Main.qml",
     "supportsScaling": true,

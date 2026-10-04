@@ -74,7 +74,7 @@ cd remarkable-baseball
 The installer copies the bundle into
 `/home/root/xovi/exthome/appload/baseball` and restarts **xochitl** so AppLoad
 loads the updated icon and frontend. This returns the tablet to its lock screen.
-Unlock it and open **AppLoad → Pocket Diamond**.
+Unlock it and open **AppLoad → Baseball**. (The launcher uses the short name so it fits on one line; the game itself is still titled Pocket Diamond.)
 
 For another SSH address, use `RM_HOST=your-tablet-address ./deploy.sh`.
 Set `NO_RESTART=1` to copy the files and restart the interface yourself later.
